@@ -1,0 +1,5 @@
+{
+  "name": "Daily Trivia",
+  "description": "A minimal app that delivers one fascinating trivia fact every day across history, science, art, and more.",
+  "requestFramePermissions": ["notifications"]
+}
